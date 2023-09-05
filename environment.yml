@@ -1,0 +1,5 @@
+name: OpenChanFlow
+channels:
+  -conda forage
+dependencies:
+  -python =3
