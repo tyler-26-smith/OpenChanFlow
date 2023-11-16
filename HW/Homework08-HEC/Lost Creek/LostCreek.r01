@@ -1,0 +1,179 @@
+HEC-RAS 6.3.1 September 2022
+Section - Arrays Sizes
+Plan 01                                                         
+       1       1       0      36     132       F
+       1       1       0       0
+      12      12       0       0       0       0       0       0
+       0       0       0       F       F       0       0       0       0       0       0       0
+       0       0       F       F       0       0       0       F       0       0       F
+       0
+       0       0
+       1       1       0       F       T       F       0      12      30       F       F       F       0
+       1
+       0     .01       F     .01      20      .3     .01       F       5       T       F
+Section - Expansion and Contraction Coefficients
+      .1      .3       1
+Section - Job Control
+       1       1       1       F       F       1
+Section - Flow Data
+       1       0PF 1
+    3000       1
+Section - Flow and Seasonal Roughness Flag (plan)
+       F       F
+Section - Junction Information
+Section - Reach Boundaries
+       T       T       1      12        Lost Creek             F       F
+       0       0        
+       3       0     .01
+Section - Encroachment Data
+Section - Observed Water Surface Data
+Section - Roughness Change Factors
+Section - Breach Data
+Section - Storage Area Data
+Section - Storage Area Connection Data
+Section - Pump Station Data
+Section - River Reach Data
+NODE   1main            12           500     500     500       0                          -0.007           0.906
+       1       F
+      11
+       0  1821.4     210  1818.2     222  1813.9     245    1812     256  1810.3
+     267    1810     276  1812.3     286  1812.6     292  1814.7     360  1819.5
+     500  1821.2
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     210    .035     360    .045
+                                       F       F     210     360       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            11           500     500     500       0                           0.056           0.848
+       1       F
+      11
+       0  1818.9     196  1817.1     222  1814.2     243  1813.5     253  1810.5
+     267  1810.4     276  1812.2     286  1813.9     292  1815.9     312  1817.9
+     500  1818.5
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     196    .035     312    .045
+                                       F       F     196     312       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            10           500     500     500       0                           0.118            0.79
+       1       F
+      11
+       0  1814.8     191  1812.4     222  1810.8     241  1809.3     255  1800.7
+     267  1800.3     276  1804.1     286  1806.8     292  1810.5     313  1812.4
+     500  1814.6
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     191    .035     313    .045
+                                       F       F     191     313       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            9            500     500     500       0                            0.18           0.731
+       1       F
+      11
+       0  1813.6     164  1813.2     223  1809.6     240  1802.6     255  1802.4
+     267  1798.9     276  1796.8     286    1799     292    1805     318    1812
+     500  1813.4
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     164    .035     318    .045
+                                       F       F     164     318       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            8            500     500     500       0                           0.242           0.673
+       1       F
+      11
+       0    1803     181  1801.8     222  1799.8     245  1796.4     255  1794.1
+     267  1793.5     273  1793.5     286    1795     292    1800     305  1801.5
+     500  1803.4
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     181    .035     305    .045
+                                       F       F     181     305       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            7            500     500     500       0                           0.304           0.614
+       1       F
+      11
+       0  1799.3     183  1798.2     222  1792.4     245  1791.8     255  1791.1
+     267    1792     276    1795     284  1796.2     292  1798.1     301  1799.1
+     500    1800
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     183    .035     301    .045
+                                       F       F     183     301       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            6            500     500     500       0                           0.366           0.556
+       1       F
+      11
+       0  1798.1     200  1796.8     222  1795.1     245  1794.9   254.8  1790.1
+  262.96  1789.4  270.63  1792.1     286  1794.5     292  1795.7     312  1797.2
+     500    1798
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     200    .035     312    .045
+                                       F       F     200     312       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            5            500     500     500       0                           0.428           0.498
+       1       F
+      11
+       0    1795     208    1794     222    1793     245  1788.1     255    1788
+     267  1789.5     276    1793     285  1793.2     293  1793.3     317  1794.4
+     500  1795.1
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     208    .035     317    .045
+                                       F       F     208     317       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            4            500     500     500       0                           0.491           0.439
+       1       F
+      11
+       0  1789.3     210  1785.5     222  1781.5     245    1780     259  1777.4
+     267  1777.4     276  1778.1     283  1779.5     292  1783.4     314  1785.6
+     500  1789.4
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     210    .035     314    .045
+                                       F       F     210     314       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            3            500     500     500       0                           0.553           0.381
+       1       F
+      11
+       0    1779     210  1777.7     222  1775.3     245  1774.4     259  1771.6
+     267  1771.7     276  1773.5     286    1774     296  1777.2     312  1778.5
+     500  1779.5
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     210    .035     312    .045
+                                       F       F     210     312       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            2            500     500     500       0                           0.615           0.322
+       1       F
+      11
+       0  1774.1     172  1770.1     222  1765.8     245  1762.9     255  1761.4
+     267    1760     276  1759.9     286  1760.5     321    1772     330  1773.2
+     500  1775.3
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     172    .035     330    .045
+                                       F       F     172     330       F       F      .1      .3                
+       0       0       F
+       0       F
+NODE   1main            1                                      0                           0.677           0.264
+       1       F
+      11
+       0    1767     209  1765.5     222  1763.5     245    1762     255  1759.1
+     267  1758.1     277  1753.1     286  1753.1     291  1757.9     312    1764
+     500    1768
+Section - XS Manning's/Roughness Data
+       3       F       F       0
+       0    .045     209    .035     312    .045
+                                       F       F     209     312       F       F      .1      .3                
+       0       0       F
+       0       F
