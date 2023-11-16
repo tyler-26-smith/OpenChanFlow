@@ -1,0 +1,18 @@
+Flow Title=steady-backwater-50cfs
+Program Version=6.31
+Number of Profiles= 1 
+Profile Names=PF 1
+River Rch & RM=Spring Creek,main            ,11.0    
+      50
+Boundary for River Rch & Prof#=Spring Creek,main            , 1 
+Up Type= 0 
+Dn Type= 1 
+Dn Known WS=6
+DSS Import StartDate=
+DSS Import StartTime=
+DSS Import EndDate=
+DSS Import EndTime=
+DSS Import GetInterval= 0 
+DSS Import Interval=
+DSS Import GetPeak= 0 
+DSS Import FillOption= 0 
